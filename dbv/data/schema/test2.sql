@@ -1,0 +1,3 @@
+CREATE TABLE `test2` (
+  `name` int(11) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1
